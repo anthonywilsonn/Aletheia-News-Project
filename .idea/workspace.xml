@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a62a99d8-c562-46bd-8efb-fb89444da5f1" name="Default Changelist" comment="" />
+    <list default="true" id="a62a99d8-c562-46bd-8efb-fb89444da5f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -31,18 +35,50 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\twils\IdeaProjects\untitled1\" />
+      <recent name="C:\Users\twils\AppData\Roaming\JetBrains\IdeaIC2020.2\templates!" />
+      <recent name="C:\Users\twils\AppData\Roaming\JetBrains\IdeaIC2020.2\" />
       <recent name="C:\Users\twils\AppData\Roaming\JetBrains\IdeaIC2020.2\scratches\templates!" />
       <recent name="C:\Users\twils\AppData\Roaming\JetBrains\IdeaIC2020.2\scratches\templates" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,13 +89,29 @@
       <option name="presentableId" value="Default" />
       <updated>1604002731018</updated>
     </task>
+    <task id="LOCAL-00001" summary="MAIN">
+      <created>1604004527873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604004527873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MAIN" />
+    <option name="LAST_COMMIT_MESSAGE" value="MAIN" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="100" key="#Project_Structure" timestamp="1604002850302">
+    <state x="588" y="100" key="#Project_Structure" timestamp="1604004849690">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="588" y="100" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604002850302" />
+    <state x="588" y="100" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604004849690" />
+    <state x="700" y="177" key="CommitChangelistDialog2" timestamp="1604004527083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="177" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604004527083" />
     <state x="1121" y="530" key="Github.ShareDialog" timestamp="1604003937457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -68,5 +120,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1059" y="234" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604003944210" />
+    <state x="665" y="343" key="Vcs.Push.Dialog.v2" timestamp="1604004543768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="343" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604004543768" />
   </component>
 </project>
