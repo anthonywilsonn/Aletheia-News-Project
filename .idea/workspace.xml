@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1jZDTdqVhaZDSx84c8oNDX5SD4v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,5 +60,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="588" y="100" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604002850302" />
+    <state x="1121" y="530" key="Github.ShareDialog" timestamp="1604003937457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1121" y="530" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604003937457" />
+    <state x="1059" y="234" key="Github.UntrackedFilesDialog" timestamp="1604003944210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1059" y="234" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604003944210" />
   </component>
 </project>
