@@ -12,3 +12,6 @@ WEEK 2: Anthony Wilson:10/10, I participated really well this week and worked a 
 Week 2: Ryan Shay: 10/10, I finished up the front end skecthes and design for the website. I then found a sutible html template to match our design and work for us. I was able to incoroporate the navbar template into the code to make it appear and change the header titles. I continued watching tutorial videos on flask and html. I now understand the sysnthesis between the two things a lot better.
 
 HOW TO RUN: On the repl.it, it takes a while to run and is quite inconsistent, so for the best running experience we recommend opening the website in a new tab which can be accessed by pressing the 'open in a new tab' button which is on the right of the link.
+
+SELF GRADE WEEK 10/27: Anthony Wilson:
+For this week, I deserve a 5/5 grade as I worked really hard on the code and the template. I worked on every part of the project collaboratively with Ryan, the CSS, HTML, README, the journal, etc. I believe we both put a lot of effort into the project this week and both deserve a 5/5.
