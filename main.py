@@ -10,4 +10,4 @@ def home():
 
 if __name__ == "__main__":
 #runs the application on the development server
-app.run()
+    app.run()

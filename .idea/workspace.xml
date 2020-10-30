@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a62a99d8-c562-46bd-8efb-fb89444da5f1" name="Default Changelist" comment="ANTHONY">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
+    <list default="true" id="a62a99d8-c562-46bd-8efb-fb89444da5f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,23 +103,31 @@
       <option name="project" value="LOCAL" />
       <updated>1604005346135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated main">
+      <created>1604092473438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604092473438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MAIN" />
     <MESSAGE value="ANTHONY" />
-    <option name="LAST_COMMIT_MESSAGE" value="ANTHONY" />
+    <MESSAGE value="Updated main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated main" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="100" key="#Project_Structure" timestamp="1604092231601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="588" y="100" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604092231601" />
-    <state x="700" y="177" key="CommitChangelistDialog2" timestamp="1604084226615">
+    <state x="700" y="177" key="CommitChangelistDialog2" timestamp="1604092472809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="700" y="177" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604084226615" />
+    <state x="700" y="177" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604092472809" />
     <state x="1121" y="530" key="Github.ShareDialog" timestamp="1604003937457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -135,10 +136,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1059" y="234" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604003944210" />
-    <state x="665" y="343" key="Vcs.Push.Dialog.v2" timestamp="1604005356144">
+    <state x="665" y="343" key="Vcs.Push.Dialog.v2" timestamp="1604092477891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="665" y="343" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604005356144" />
+    <state x="665" y="343" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604092477891" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
